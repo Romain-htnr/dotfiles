@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = romain.hethener@gmail.com
+	email = romain.hethenercd ~/code/$GITHUB_USERNAME/dotfiles
 	name = Romain Hethener
